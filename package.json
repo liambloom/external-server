@@ -1,0 +1,29 @@
+{
+  "name": "external-server",
+  "version": "0.0.1",
+  "description": "This is a module that will allow you to use external files to process a request",
+  "main": "index.js",
+  "scripts": {
+    "test": "node test.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/liambloom/external-server.git"
+  },
+  "keywords": [
+    "external",
+    "run"
+  ],
+  "author": "Liam Bloom",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/liambloom/external-server/issues"
+  },
+  "homepage": "https://github.com/liambloom/external-server#readme",
+  "dependencies": {
+    "node-fetch": "^2.6.0"
+  },
+  "devDependencies": {
+    "jshint": "6.13.4"
+  }
+}
